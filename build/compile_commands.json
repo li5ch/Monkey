@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/t-wuli/Monkey/build",
+  "command": "/usr/bin/gcc-8  -I/home/t-wuli/Monkey/src  -g   -std=gnu11 -o CMakeFiles/Monkey.dir/src/mk_palloc.c.o   -c /home/t-wuli/Monkey/src/mk_palloc.c",
+  "file": "/home/t-wuli/Monkey/src/mk_palloc.c"
+},
+{
+  "directory": "/home/t-wuli/Monkey/build",
+  "command": "/usr/bin/gcc-8  -I/home/t-wuli/Monkey/src  -g   -std=gnu11 -o CMakeFiles/Monkey.dir/src/mk_vector.c.o   -c /home/t-wuli/Monkey/src/mk_vector.c",
+  "file": "/home/t-wuli/Monkey/src/mk_vector.c"
+},
+{
+  "directory": "/home/t-wuli/Monkey/build",
+  "command": "/usr/bin/gcc-8  -I/home/t-wuli/Monkey/src  -g   -std=gnu11 -o CMakeFiles/Monkey.dir/src/test.c.o   -c /home/t-wuli/Monkey/src/test.c",
+  "file": "/home/t-wuli/Monkey/src/test.c"
+}
+]

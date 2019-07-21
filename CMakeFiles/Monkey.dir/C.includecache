@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/t-wuli/Monkey/src/mk_palloc.c
+monkey.h
+/home/t-wuli/Monkey/src/monkey.h
+
+/home/t-wuli/Monkey/src/mk_palloc.h
+
+/home/t-wuli/Monkey/src/mk_vector.c
+monkey.h
+/home/t-wuli/Monkey/src/monkey.h
+
+/home/t-wuli/Monkey/src/mk_vector.h
+
+/home/t-wuli/Monkey/src/monkey.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+mk_palloc.h
+/home/t-wuli/Monkey/src/mk_palloc.h
+mk_vector.h
+/home/t-wuli/Monkey/src/mk_vector.h
+
+/home/t-wuli/Monkey/src/test.c
+monkey.h
+/home/t-wuli/Monkey/src/monkey.h
+

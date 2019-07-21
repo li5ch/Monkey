@@ -1,0 +1,3 @@
+/home/t-wuli/Monkey/CMakeFiles/rebuild_cache.dir
+/home/t-wuli/Monkey/CMakeFiles/Monkey.dir
+/home/t-wuli/Monkey/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/Monkey.dir/src/mk_palloc.c.o CMakeFiles/Monkey.dir/src/mk_vector.c.o CMakeFiles/Monkey.dir/src/test.c.o  -o Monkey 
